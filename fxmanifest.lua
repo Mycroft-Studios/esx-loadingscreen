@@ -11,7 +11,7 @@ client_script 'client.lua'
 files {
     './vid/*.mp4',
     './vid/*.webm',
-    'index.html',
-    './css/index.css',
     './js/index.js',
+    './css/index.css',
+    'index.html',
 }
